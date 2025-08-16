@@ -1,1 +1,2 @@
-# Data Analyst Portfolio\nMid-level projects in Pandas, SQL. Contact for contracts.
+# Data Analyst Portfolio
+Mid-level projects in Pandas, SQL. Contact for contracts.
