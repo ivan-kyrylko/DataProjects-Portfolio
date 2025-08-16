@@ -1,4 +1,4 @@
-#Automate Service Operations Reports – Reduce Update Time by 95%
+# Automate Service Operations Reports – Reduce Update Time by 95%
 Problem: A bank’s Service Operations Report took a week to update, delaying decision-making and increasing errors.
 
 Solution: I automated data extraction, optimized SQL queries, and built a dynamic Power BI dashboard.
